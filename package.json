@@ -1,0 +1,14 @@
+{
+  "name": "shop-apotheke-test-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
